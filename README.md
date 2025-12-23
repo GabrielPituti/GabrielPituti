@@ -57,6 +57,6 @@ Since my corporate work (Government/Banking) is under NDA/Private, MentorIA is m
 <br />
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielPituti&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPituti&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="languages graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielPituti&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&date_bust=2025" height="150" alt="stats graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielPituti&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&date_bust=2025" height="150" alt="languages graph" />
 </div>
