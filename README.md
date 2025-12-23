@@ -69,6 +69,6 @@ DevOps & Tools
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGabrielPituti%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGabrielPituti%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="languages graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGabrielPituti%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26cache_seconds%3D1800" height="150" alt="stats graph"  />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGabrielPituti%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26cache_seconds%3D1800" height="150" alt="languages graph" />
 </div>
