@@ -53,10 +53,3 @@ Since my corporate work (Government/Banking) is under NDA/Private, MentorIA is m
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
-
-<br />
-
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielPituti&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&date_bust=2025" height="150" alt="stats graph" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielPituti&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&date_bust=2025" height="150" alt="languages graph" />
-</div>
